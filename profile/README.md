@@ -1,3 +1,5 @@
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KfnTns2Vr8a1VSMozdCbon)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+rx8AmmPeTRxjNmIx)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/w8yBUqGcnu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devhack.io)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devhack.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devhack)
